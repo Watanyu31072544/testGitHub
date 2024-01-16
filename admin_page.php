@@ -30,7 +30,7 @@ if (!$_SESSION["emp_id"]) {
 
   <body>
     <div class="container">
-      <h2>ยินดีต้อนรับผู้ดูแลระบบ</h2>
+      <h2>ยินดีต้อนรับผู้ดูแลระบบ เชิญทดสอบได้เลยนะครับผม</h2>
       <p><i class='bx bx-user-voice'></i> สวัสดีคุณ <?php echo $row["emp_title"];
                                                     echo $row["emp_name"];
                                                     echo "&nbsp";
