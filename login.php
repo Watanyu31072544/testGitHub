@@ -22,7 +22,7 @@
 
 <body class="form-login">
   <div class="container">
-    <h2> <i class='bx bxs-user-pin' style='color:#50e7d4'></i> เข้าระสู่ระบบจัดการข้อมูลพนักงาน</h2>
+    <h2> <i class='bx bxs-user-pin' style='color:#50e7d4'></i> เข้าสู่ระบบจัดการข้อมูลพนักงาน</h2>
     <form method="POST" action="chk.php">
       <div class="mb-3">
         <label for="username" class="form-label">ชื่อเข้าระบบ</label>
